@@ -141,7 +141,7 @@ body {
   border-radius: 20px;
   height: 300px !important;
   width: 500px;
-  background: rgb(25, 27, 31) !important;
+  background: rgba(215, 215, 215, 0.8) !important;
 }
 
 .card-input input {
