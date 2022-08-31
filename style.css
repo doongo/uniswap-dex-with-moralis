@@ -5,8 +5,8 @@
 }
 
 body {
-  background: rgb(42, 35, 45);
-  color: white;
+  background: rgba(248, 248, 248, 0.8);
+  color: black;
 }
 
 .top-bar nav {
